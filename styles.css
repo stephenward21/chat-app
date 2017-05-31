@@ -1,0 +1,38 @@
+#messages {
+	height: 60vh;
+	border: 10px solid black;
+}
+h1 {
+	text-align: center;
+	margin-bottom: 40px;
+}
+
+#submit-message{
+	margin-top: 20px;
+}
+
+#new-message {
+	width: 350px;
+}
+
+#users {
+	border: 5px solid grey;
+	margin: 10px;
+	text-align: center;
+	height: 40vh;
+
+}
+
+#messages {
+
+	background-color: lightgrey;
+
+}
+
+p {
+	background-color: #34AADC;
+	border: 2px solid black;
+	border-radius: 25%;
+	margin: 5px;
+	padding: 5px;
+}
